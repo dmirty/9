@@ -1,1 +1,8 @@
+---
+nginx_conf_dir: /etc/nginx 
+
+
+nginx_sites_default_root: /usr/share/nginx/html  
+
+
 
