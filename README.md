@@ -1,2 +1,4 @@
-# 9 Д.З 9
+vagrant
+ansible
+nginx ROLE
 роль Nginx в файлах и  вагрант
